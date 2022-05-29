@@ -1,0 +1,18 @@
+body {
+    background-color: azure;
+    margin: 10px;
+}
+
+.container-fluid {
+    background-color: aquamarine;
+}
+
+a {
+    font-size: x-large;
+    font-family: Optima, Perpetua, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.navbar-brand>img {
+    width: 75px;
+}
